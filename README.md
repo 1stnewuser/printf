@@ -22,7 +22,7 @@ converted for output.
 ## Authors
 
 * Francis Ngozichukwu <[1stnewuser](https://github.com/1stnewuser)
-* Chiedozie Ukah <[dozonalx](https://github.com/dozonalx)
+* Oyebola Daramola <[CreativeDadd](https://github.com/CreativeDadd)
 
 <p align="center">
   <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
